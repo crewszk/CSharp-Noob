@@ -1,0 +1,6 @@
+F:\School\Ch06P07\Ch06P07\bin\Debug\Ch06P07.exe.config
+F:\School\Ch06P07\Ch06P07\bin\Debug\Ch06P07.exe
+F:\School\Ch06P07\Ch06P07\bin\Debug\Ch06P07.pdb
+F:\School\Ch06P07\Ch06P07\obj\Debug\Ch06P07.csprojResolveAssemblyReference.cache
+F:\School\Ch06P07\Ch06P07\obj\Debug\Ch06P07.exe
+F:\School\Ch06P07\Ch06P07\obj\Debug\Ch06P07.pdb
