@@ -1,0 +1,6 @@
+F:\School\Ch06P06Arrays\Ch06P06Arrays\bin\Debug\Ch06P06Arrays.exe.config
+F:\School\Ch06P06Arrays\Ch06P06Arrays\bin\Debug\Ch06P06Arrays.exe
+F:\School\Ch06P06Arrays\Ch06P06Arrays\bin\Debug\Ch06P06Arrays.pdb
+F:\School\Ch06P06Arrays\Ch06P06Arrays\obj\Debug\Ch06P06Arrays.csprojResolveAssemblyReference.cache
+F:\School\Ch06P06Arrays\Ch06P06Arrays\obj\Debug\Ch06P06Arrays.exe
+F:\School\Ch06P06Arrays\Ch06P06Arrays\obj\Debug\Ch06P06Arrays.pdb
