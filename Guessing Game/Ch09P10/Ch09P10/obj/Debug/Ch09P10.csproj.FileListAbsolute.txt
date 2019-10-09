@@ -1,0 +1,9 @@
+F:\School\Ch09P10\Ch09P10\bin\Debug\Ch09P10.exe.config
+F:\School\Ch09P10\Ch09P10\bin\Debug\Ch09P10.exe
+F:\School\Ch09P10\Ch09P10\bin\Debug\Ch09P10.pdb
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.csprojResolveAssemblyReference.cache
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.GameForm.resources
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.Properties.Resources.resources
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.csproj.GenerateResource.Cache
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.exe
+F:\School\Ch09P10\Ch09P10\obj\Debug\Ch09P10.pdb
