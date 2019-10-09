@@ -1,0 +1,6 @@
+F:\School\LoopsLab2\LoopsLab2\bin\Debug\LoopsLab2.exe.config
+F:\School\LoopsLab2\LoopsLab2\obj\Debug\LoopsLab2.csprojResolveAssemblyReference.cache
+F:\School\LoopsLab2\LoopsLab2\bin\Debug\LoopsLab2.exe
+F:\School\LoopsLab2\LoopsLab2\bin\Debug\LoopsLab2.pdb
+F:\School\LoopsLab2\LoopsLab2\obj\Debug\LoopsLab2.exe
+F:\School\LoopsLab2\LoopsLab2\obj\Debug\LoopsLab2.pdb
