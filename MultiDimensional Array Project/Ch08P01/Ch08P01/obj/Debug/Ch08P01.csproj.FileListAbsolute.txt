@@ -1,0 +1,6 @@
+F:\School\Ch08P01\Ch08P01\bin\Debug\Ch08P01.exe.config
+F:\School\Ch08P01\Ch08P01\bin\Debug\Ch08P01.exe
+F:\School\Ch08P01\Ch08P01\bin\Debug\Ch08P01.pdb
+F:\School\Ch08P01\Ch08P01\obj\Debug\Ch08P01.csprojResolveAssemblyReference.cache
+F:\School\Ch08P01\Ch08P01\obj\Debug\Ch08P01.exe
+F:\School\Ch08P01\Ch08P01\obj\Debug\Ch08P01.pdb
