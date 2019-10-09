@@ -1,0 +1,6 @@
+F:\School\PairedProjectApp\PairedProjectApp\bin\Debug\PairedProjectApp.exe.config
+F:\School\PairedProjectApp\PairedProjectApp\bin\Debug\PairedProjectApp.exe
+F:\School\PairedProjectApp\PairedProjectApp\bin\Debug\PairedProjectApp.pdb
+F:\School\PairedProjectApp\PairedProjectApp\obj\Debug\PairedProjectApp.csprojResolveAssemblyReference.cache
+F:\School\PairedProjectApp\PairedProjectApp\obj\Debug\PairedProjectApp.exe
+F:\School\PairedProjectApp\PairedProjectApp\obj\Debug\PairedProjectApp.pdb
