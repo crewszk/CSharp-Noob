@@ -1,0 +1,9 @@
+F:\School\TempConversionAPp\TempConversionAPp\bin\Debug\TempConversionAPp.exe.config
+F:\School\TempConversionAPp\TempConversionAPp\bin\Debug\TempConversionAPp.exe
+F:\School\TempConversionAPp\TempConversionAPp\bin\Debug\TempConversionAPp.pdb
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.csprojResolveAssemblyReference.cache
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.Form1.resources
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.Properties.Resources.resources
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.csproj.GenerateResource.Cache
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.exe
+F:\School\TempConversionAPp\TempConversionAPp\obj\Debug\TempConversionAPp.pdb
